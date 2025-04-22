@@ -1,0 +1,5 @@
+[ 2025-04-23 02:28:55,185 ] 83 root - INFO - Read train and test data completed
+[ 2025-04-23 02:28:55,185 ] 85 root - INFO - Obtaining preprocessing object
+[ 2025-04-23 02:28:55,185 ] 59 root - INFO - Categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[ 2025-04-23 02:28:55,185 ] 60 root - INFO - Numerical columns: ['writing_score', 'reading_score']
+[ 2025-04-23 02:28:55,186 ] 98 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
